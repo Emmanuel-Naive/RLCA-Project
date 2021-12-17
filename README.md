@@ -2,9 +2,15 @@
 Modification based RLCA_AMS
 
 -Codes：the main floder for codes
+
+
   main functions *3：
+  
+  
     case1main.py
+    
     case2main.py
+    
     case3main.py
     
     
